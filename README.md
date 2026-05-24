@@ -72,3 +72,4 @@ npx expo start
 B.Tech CSE — IIIT Manipur 
 [GitHub](https://github.com/vikas1311code) | [Email](mailto:vikaspandey131118@gmail.com)
 "Updated" 
+"update" 
